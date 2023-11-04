@@ -1,0 +1,16 @@
+{
+  "name": "webscraping",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "axios": "^1.6.0",
+    "bun-types": "latest",
+    "json-server": "^0.17.4"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@extractus/article-extractor": "^8.0.3"
+  }
+}
